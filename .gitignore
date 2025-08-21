@@ -1,0 +1,4 @@
+# Ignore Wazuh logs and runtime files
+logs/*
+queue/*
+*.pid
